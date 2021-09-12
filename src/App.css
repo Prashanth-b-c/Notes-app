@@ -1,0 +1,24 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-color: #cee6b4;
+}
+
+.container-fluid {
+    margin: 250px auto auto auto;
+    width: 50%
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.home_heading {
+    margin-top: 15px;
+}
+
+.register_div {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+}
